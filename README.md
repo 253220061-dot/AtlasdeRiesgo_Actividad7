@@ -1,0 +1,2 @@
+# AtlasdeRiesgo_Actividad7
+Algoritmos Evolutivos
